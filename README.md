@@ -1,6 +1,6 @@
 ### Hi there, Kartik here 👋
 
-- 📖 I'm a new college graudate (B.Tech.) in Instrumentation and Control @ [Netaji Subhas University of Technology, Delhi, India](http://nsut.ac.in).
+- 📖 I'm a new college graduate (B.Tech.) in Instrumentation and Control @ [Netaji Subhas University of Technology, Delhi, India](http://nsut.ac.in).
 - 🔭 I’m currently working on data-driven prognostics @ [The Advanced Process Control Lab](https://apclnsit.wordpress.com/).
 - 🌱 I’m passionate about electronics design, embedded systems, and machine learning.
 - ⚗️ I’m an occasional amateur chemist :P
